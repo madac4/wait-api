@@ -1,0 +1,15 @@
+{
+  "name": "stellar-solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "whhroo || fedotos",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
